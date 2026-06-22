@@ -17,7 +17,7 @@ public class program42 {
         System.out.print("Enter two numbers:");
         int n=sc.nextInt();
         int m=sc.nextInt();
-        System.out.print("Largest of the two number is ::")
+        System.out.print("Largest of the two number is ::");
         System.out.println(max(n,m));
     }
     }

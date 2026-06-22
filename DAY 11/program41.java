@@ -12,7 +12,7 @@ return n+m;
         System.out.print("Enter the numbers:");
         int n=sc.nextInt();
         int m=sc.nextInt();
-        System.out.print("The  sum of both elements is ::") 
+        System.out.print("The  sum of both elements is ::") ;
         System.out.println(sum(n,m));
     }
 }
